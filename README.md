@@ -2,7 +2,7 @@
 
 A beautiful, music-themed todo list application built with React, TypeScript, and Tailwind CSS. Compose your perfect day, one task at a time! 🎵
 
-![SoundFlow Preview](https://lighthearted-cannoli-716fc4.netlify.app)
+![SoundFlow Preview](https://sriniweb-soundflow.netlify.app/)
 
 ## ✨ Features
 
